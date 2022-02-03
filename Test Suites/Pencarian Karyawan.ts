@@ -15,7 +15,7 @@
       <guid>4120eb46-cbbc-4114-ae54-4a7c4430e0ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC003 - Pencarian Karyawan</testCaseId>
+      <testCaseId>Test Cases/OrangeHRM/TC003 - Pencarian Karyawan</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -27,6 +27,12 @@
       <guid>85260dab-354b-45ea-bfe5-f6c024f4372e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC004 - Pencarian Karyawan - ByLabel</testCaseId>
+      <testCaseId>Test Cases/OrangeHRM/TC004 - Pencarian Karyawan - ByLabel</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d79e0bf5-91bd-45dc-8690-70b8e290ed3a</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

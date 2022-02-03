@@ -15,7 +15,7 @@
       <guid>1c2a48b7-f0cc-4cb8-8289-53acaa402d48</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC004 - Pencarian Karyawan - ByLabel</testCaseId>
+      <testCaseId>Test Cases/OrangeHRM/TC004 - Pencarian Karyawan - ByLabel</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>24d185a7-327f-4b64-9506-96db64925594</id>

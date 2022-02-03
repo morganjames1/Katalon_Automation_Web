@@ -15,7 +15,7 @@
       <guid>f45831c5-9eed-4ef3-a5dc-a49efa8bbeed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC001 - LoginSuccess</testCaseId>
+      <testCaseId>Test Cases/OrangeHRM/TC001 - LoginSuccess</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -33,7 +33,7 @@
       <guid>47a8995b-213a-4c86-8a3c-172c69f9fff7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC002 - LogoutSuccess</testCaseId>
+      <testCaseId>Test Cases/OrangeHRM/TC002 - LogoutSuccess</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
