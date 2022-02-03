@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003 - Pencarian Karyawan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e9c2472-e327-4b1e-b820-d4c4c635382a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed491f07-721a-4353-b4fb-290c431523e0</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

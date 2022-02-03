@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - LoginSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0110ebb-b2e3-4d36-8a77-1bbe6343cd12</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>cb496946-33c9-420d-a510-0c5b44d5ac3f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>70353431-9db7-4742-b282-289b574df63d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

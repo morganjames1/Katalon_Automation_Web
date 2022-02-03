@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - LogoutSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b35e4ef-dcfd-4dd9-935e-a4430b06ba82</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>86bcaee9-54b9-4669-9607-f4a45abcd64c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>cdcef180-5ad2-410f-9809-b64b1b208c08</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
